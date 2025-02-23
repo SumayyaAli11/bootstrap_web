@@ -1,0 +1,30 @@
+.body{
+    margin: 0;
+   }
+.col{
+    width:50px;
+    text-align: center;
+
+}
+.container{
+    text-align: center;
+}
+.container-fluid{
+    text-align: center;
+}
+
+
+
+
+.box1{
+    text-align: center;
+    width: 150px;
+    
+    
+}
+.row{
+    text-align: center;
+}
+.form-control{
+	border-radius: 0;
+}
